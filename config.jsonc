@@ -1,0 +1,13 @@
+{
+    "playlists": [
+        "", // Add the youtube playlists URL within the quotes
+        "", // You can add multiple, just add more rows (don't forget the commas)
+        "", // And you can add a name or other notes within these comments Like this:
+        "", 
+        "", // Rock playlist 
+        "", // Gym playlist
+        "", // Tutorials
+        "",
+        ""
+    ]
+}
