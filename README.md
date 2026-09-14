@@ -1,2 +1,2 @@
 # YouTubePlaylistHistory
-A python program that saves the history of a YouTube playlist to allow the user to see titles, thumbnails and descriptions of a video in a playlist even if the video was deleted.
+A python program that saves the history YouTube playlists to allow the user to see if videos within the playlists have been removed or renamed, and if so what their previous title was.
